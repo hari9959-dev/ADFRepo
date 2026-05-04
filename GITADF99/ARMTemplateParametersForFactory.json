@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "GITADF99"
+		},
+		"empgenls_accountKey": {
+			"value": ""
+		},
+		"gitemp_ls_accountKey": {
+			"value": ""
+		},
+		"empgenls_properties_typeProperties_url": {
+			"value": "https://hari100adlsstg.dfs.core.windows.net/"
+		},
+		"gitemp_ls_properties_typeProperties_url": {
+			"value": "https://hari100adlsstg.dfs.core.windows.net/"
+		}
+	}
+}
